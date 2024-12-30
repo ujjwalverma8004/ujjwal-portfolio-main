@@ -67,4 +67,3 @@ For inquiries, collaborations, or feedback:
 - [Google Fonts](https://fonts.google.com/)
 - [Ionicons](https://ionic.io/ionicons)
 - [Vercel](https://vercel.com/) for hosting the website
-```
