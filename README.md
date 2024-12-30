@@ -9,6 +9,7 @@ This is the repository for my personal portfolio website, built using **HTML**, 
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes for a seamless user experience.
+- **Personal Bot Integration**: Features a chatbot powered by **Botpress**, capable of answering queries based on my resume, providing an engaging way to explore my professional profile.
 - **Interactive Elements**: Engaging transitions and smooth animations.
 - **Skills & Projects**: Highlights my key skills and showcases my work.
 - **Contact Section**: Includes interactive buttons for LinkedIn, GitHub, and email.
@@ -18,6 +19,7 @@ This is the repository for my personal portfolio website, built using **HTML**, 
 - **HTML**: For the webpage structure.
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For dynamic and interactive features.
+- **Botpress**: To develop and deploy the personal chatbot integrated into the portfolio.
 - **Deployment**: Deployed using Vercel for fast and reliable hosting.
 
 ## Project Structure
@@ -65,5 +67,6 @@ For inquiries, collaborations, or feedback:
 ## Acknowledgements
 
 - [Google Fonts](https://fonts.google.com/)
+- [Botpress for chatbot development](https://botpress.com/)
 - [Ionicons](https://ionic.io/ionicons)
 - [Vercel](https://vercel.com/) for hosting the website
