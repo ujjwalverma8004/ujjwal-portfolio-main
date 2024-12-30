@@ -56,10 +56,6 @@ The portfolio is deployed using **Vercel** for easy access. Visit the live site 
 
 For local testing, follow the [Getting Started](#getting-started) steps.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For inquiries, collaborations, or feedback:
@@ -72,5 +68,3 @@ For inquiries, collaborations, or feedback:
 - [Ionicons](https://ionic.io/ionicons)
 - [Vercel](https://vercel.com/) for hosting the website
 ```
-
-This file incorporates your GitHub repository and live link information while maintaining a professional and clean format.
