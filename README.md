@@ -66,7 +66,7 @@ For inquiries, collaborations, or feedback:
 
 ## Acknowledgements
 
-- [Google Fonts](https://fonts.google.com/)
-- [Botpress for chatbot development](https://botpress.com/)
-- [Ionicons](https://ionic.io/ionicons)
+- [Google Fonts](https://fonts.google.com/) for fonts used 
+- [Botpress](https://botpress.com/) for chatbot development
+- [Ionicons](https://ionic.io/ionicons) for icons on the website
 - [Vercel](https://vercel.com/) for hosting the website
